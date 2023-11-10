@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HornyAxolotl
-- 👀 I’m interested in making a nuke out of pure wizzard energy
-- 🌱 I’m currently learning how to open a can
-- 💞️ I’m looking to collaborate on learning the dark arts of wizzards
+- 👀 I’m interested in destroying the human race with AI
+- 🌱 I’m currently learning how to open 
+- 💞️ I’m looking to collaborate on making somenthing special
 - 📫 How to reach me dont.
 
 <!---
