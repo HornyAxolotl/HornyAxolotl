@@ -19,3 +19,8 @@ do the puzzle its hard if you cant travel back and forth in the same place your 
 and the flash.cs while I was watching spy x family with my wife, good night!
 
 I lied I fixed partially I just cahnged the collision matrix, now I need to find a way of not teleporting if the ghost is on a solid object
+
+A lot happened, I just stopped doing the second character moving with the controllers and made the ghost move with a new script that is just the player possition
++ or - off set depending in what timeline he is on, ill be updating the new FPController.cs since there was a issue with the camera rotation on the X axis just messing
+the off set so I just updated it and also made the new code GhostMovement.cs, the game mechanic looks good so far so now I just have to do some small level desings
+animations and sound effects, ill update back later
