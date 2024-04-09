@@ -1,28 +1,34 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+
 
 public class Teleport : MonoBehaviour
 {
 
 
     public Transform player, destination;
-    public GameObject playerg;
+    public CharacterController controller;
+    
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
-
+        
     }
 
     // Update is called once per frame
-    void Update()
+    private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Q))
         {
-            playerg.SetActive(false);
+            controller.enabled = false;
             player.position = destination.position;
-            playerg.SetActive(true);
+            controller.enabled = true;
             Debug.Log("teleported");
         }
     }
+
+    
+
 }
