@@ -8,3 +8,4 @@
 HornyAxolotl/HornyAxolotl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+This is my first proyects so im gonna be leaving every small thing here
