@@ -18,3 +18,4 @@ of the ghost, the ghost as it shares the same properties as the main body it can
 do the puzzle its hard if you cant travel back and forth in the same place your standing on... well ill fix it tomorrow, I finished working on the github
 and the flash.cs while I was watching spy x family with my wife, good night!
 
+I lied I fixed partially I just cahnged the collision matrix, now I need to find a way of not teleporting if the ghost is on a solid object
