@@ -20,7 +20,16 @@ and the flash.cs while I was watching spy x family with my wife, good night!
 
 I lied I fixed partially I just cahnged the collision matrix, now I need to find a way of not teleporting if the ghost is on a solid object
 
-A lot happened, I just stopped doing the second character moving with the controllers and made the ghost move with a new script that is just the player possition
- + or - off set depending in what timeline he is on, ill be updating the new FPController.cs since there was a issue with the camera rotation on the X axis just messing
+A lot happened, I just stopped doing the second character moving with the controllers and made the ghost move with a new script that is just the player possition + or - off set 
+depending in what timeline he is on, ill be updating the new FPController.cs since there was a issue with the camera rotation on the X axis just messing
 the off set so I just updated it and also made the new code GhostMovement.cs, the game mechanic looks good so far so now I just have to do some small level desings
 animations and sound effects, ill update back later
+
+So ill do a quick update but first im gonna rant of the creative process, at first I was thinking of doing some movement scripts like wall running or a rope to swing and solve the puzzles
+but I thought and the whole plot runs around time, so why not make time abilities instead of movement, so that way we have a nice movement feature and game mechanic
+so this are the next things I need to work on:
+- Rewind time self and object
+- foward time object
+- foward self or "blink"
+- stop time object or general
+- 
